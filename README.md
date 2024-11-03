@@ -21,8 +21,6 @@ This repository holds source code for the backend and API writted using Codeigni
 
 We welcome contributions from the community.
 
-Please read the [_Contributing to CodeIgniter_](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
-
 ## Server Requirements
 
 PHP version 8.1 or higher is required, with the following extensions installed:
