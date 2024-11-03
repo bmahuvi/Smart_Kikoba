@@ -15,6 +15,7 @@ This repository holds source code for the backend and API writted using Codeigni
    2. Uncomment app.baseURL and update value to `http://localhost/smart_kikoba/public'`,
    3. Uncomment database configuration and specify database settings like password and database name,
 3. Tables for the database are available, just run the root folder in termina and run `php spark migrate`
+4. Dont forget to run `composer install` for dependencies.
 
 ## Contributing
 
